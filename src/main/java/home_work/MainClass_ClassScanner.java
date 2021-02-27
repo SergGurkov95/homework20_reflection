@@ -7,7 +7,7 @@ import java.lang.reflect.*;
 import java.util.*;
 
 
-public class ClassScanner {
+public class MainClass_ClassScanner {
 
     private static final File projectFolderFile = new File(System.getProperty("user.dir"));
     private static List<File> list = Arrays.asList(projectFolderFile.listFiles());
